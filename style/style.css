@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.navigacia {
+    background-color: #111618;
+    height: 60px;
+    color: #fff;
+    padding-top: 15px;
+}
+
+.navigacia .glavni {
+    list-style: none;
+}
+
+.navigacia .glavni li {
+    display: inline-block;
+    margin-left: 15px;
+}
+
+.navigacia .glavni li a {
+color: #787374;
+text-transform: uppercase;
+}
+
+.pozadina {
+    width: 100%;
+    height: 100vh;
+    background-image:url('../a.jpg');
+}
